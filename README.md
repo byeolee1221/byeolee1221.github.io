@@ -16,12 +16,12 @@
 
 사용한 기술스택은 다음과 같습니다.
 
-프론트엔드: CSS, Javascript, React.js
+🔎 프론트엔드: CSS, Javascript, React.js
 
-데이터베이스: firebase realtime database
+🔎 데이터베이스: firebase realtime database
 
-배포: Github pages
+🔎 배포: Github pages
 
 다음은 프로젝트에 참가한 인원입니다.
 
-프로젝트 전체인원: 1명 (문창기-frontend)
+🔎 프로젝트 전체인원: 1명 (문창기-frontend)
